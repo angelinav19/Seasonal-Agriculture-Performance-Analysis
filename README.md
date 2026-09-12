@@ -35,6 +35,14 @@ The dataset contains 8 states, 10 districts, 8 crop types, 3 agricultural season
 - Seaborn
 - Jupyter Notebook
 
+## Data Cleaning
+The dataset was checked for:
+
+Missing values
+Duplicate records
+Data types
+Numerical and categorical variables.
+
 ## Analysis Performed
 
 The project includes:
@@ -67,3 +75,9 @@ The analysis shows that agricultural performance depends on multiple
 factors including season, crop type, water availability, environmental
 conditions, land utilization and pest risk. Efficient use of resources
 can help improve both agricultural productivity and profitability.
+
+## Author
+
+Angelina V
+Project : Seasonal Agriculture Performance Analysis 
+GitHub : https://github.com/angelinav19
