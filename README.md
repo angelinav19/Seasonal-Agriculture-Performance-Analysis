@@ -17,6 +17,14 @@ crop yield, profitability and resource utilization.
 - Identify states achieving higher yield with smaller farm areas
 - Analyze disease and pest risk
 - Provide evidence-based agricultural recommendations
+  
+## Dataset 
+The analysis uses the dataset:
+
+seasonal_agriculture_performance_dataset.csv
+
+The dataset contains 4,000 records and 28 original columns. Each record represents agricultural/farm-level information.
+The dataset contains 8 states, 10 districts, 8 crop types, 3 agricultural seasons, and 4 irrigation methods represented in the categorical analysis.
 
 ## Tools and Technologies
 
